@@ -13,7 +13,7 @@ This project has the following objective: Develop an app in React-Native that al
 - Run the command below to install the project packages:
 
 ```sh
-npm install
+npx expo install
 ```
 
 ### Compile and Hot-Reload for Development
