@@ -1,6 +1,6 @@
 # Todo-List
 
-This project aims to: Develop an app in React-Native that allows you to create, update, view and delete a list of tasks
+This project has the following objective: Develop an app in React-Native that allows you to create, update, view and delete a list of tasks
 
 ## Recommended IDE Setup
 
