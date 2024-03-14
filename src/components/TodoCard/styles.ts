@@ -28,7 +28,7 @@ export default StyleSheet.create({
   contentTodo: {
     width: 235,
 
-    fontFamily: "Inter-Regular",
+    fontFamily: "Inter_400Regular",
     fontSize: 14,
     fontWeight: "400",
     color: "#F2F2F2",
@@ -36,7 +36,7 @@ export default StyleSheet.create({
   contentDone: {
     width: 235,
 
-    fontFamily: "Inter-Regular",
+    fontFamily: "Inter_400Regular",
     fontSize: 14,
     fontWeight: "400",
     color: "#808080",

@@ -34,7 +34,7 @@ export default StyleSheet.create({
     borderColor: "#0D0D0D",
     borderWidth: 1,
 
-    fontFamily: "Inter-Regular",
+    fontFamily: "Inter_400Regular",
     fontSize: 16,
     fontWeight: "400",
   },
@@ -52,7 +52,7 @@ export default StyleSheet.create({
     borderColor: "#5E60CE",
     borderWidth: 1,
 
-    fontFamily: "Inter-Regular",
+    fontFamily: "Inter_400Regular",
     fontSize: 16,
     fontWeight: "400",
   },

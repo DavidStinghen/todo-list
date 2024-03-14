@@ -1,4 +1,8 @@
-import { useFonts } from "expo-font";
+import {
+  Inter_400Regular,
+  Inter_700Bold,
+  useFonts,
+} from "@expo-google-fonts/inter";
 import * as SplashScreen from "expo-splash-screen";
 import { useCallback } from "react";
 import { StatusBar, View } from "react-native";
@@ -9,8 +13,8 @@ SplashScreen.preventAutoHideAsync();
 
 export default function App() {
   const [isLoaded] = useFonts({
-    "Inter-Regular": require("./assets/fonts/Inter-Regular.ttf"),
-    "Inter-Bold": require("./assets/fonts/Inter-Bold.ttf"),
+    Inter_400Regular,
+    Inter_700Bold,
   });
 
   const handleOnLayout = useCallback(async () => {

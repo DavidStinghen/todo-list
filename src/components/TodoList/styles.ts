@@ -38,19 +38,19 @@ export default StyleSheet.create({
     gap: 8,
   },
   todoListTodoLabel: {
-    fontFamily: "Inter-Bold",
+    fontFamily: "Inter_700Bold",
     fontSize: 14,
     fontWeight: "bold",
     color: "#4EA8DE",
   },
   todoListDoneLabel: {
-    fontFamily: "Inter-Bold",
+    fontFamily: "Inter_700Bold",
     fontSize: 14,
     fontWeight: "bold",
     color: "#8284FA",
   },
   todoListCount: {
-    fontFamily: "Inter-Bold",
+    fontFamily: "Inter_700Bold",
     fontSize: 12,
     fontWeight: "bold",
     color: "#D9D9D9",
